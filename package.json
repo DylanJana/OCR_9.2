@@ -13,10 +13,11 @@
     "geckodriver": "^2.0.0",
     "jest": "^27.0.3",
     "jest-html-reporter": "^3.4.1",
-    "nightwatch": "^1.7.6"
+    "nightwatch": "^1.7.13"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testNightWatch": "nightwatch"
   },
   "keywords": [],
   "author": "",
